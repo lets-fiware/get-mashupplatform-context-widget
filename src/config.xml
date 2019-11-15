@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<widget xmlns="http://wirecloud.conwet.fi.upm.es/ns/macdescription/1" vendor="FISUDA" name="get-mashupplatform-context-widget" version="0.1.0">
+
+    <details>
+        <title>Get MashupPlatform context widget</title>
+        <homepage>https://github.com/lets-fiware/get-mashupplatform-context-widget</homepage>
+        <authors>Kazuhito Suda</authors>
+        <email>kazuhito@fisuda.jp</email>
+        <image></image>
+        <smartphoneimage></smartphoneimage>
+        <description>Get MashupPlatform context widget</description>
+        <longdescription>DESCRIPTION.md</longdescription>
+        <changelog>doc/changelog.md</changelog>
+        <doc>doc/userguide.md</doc>
+        <license>MIT</license>
+        <issuetracker>https://github.com/lets-fiware/get-mashupplatform-context-widget/issues</issuetracker>
+    </details>
+
+    <requirements>
+        <feature name="StyledElements"/>
+    </requirements>
+
+    <preferences>
+    </preferences>
+
+    <wiring>
+        <outputendpoint name="output" type="text" label="Output" description="JSON data" friendcode="*"/>
+    </wiring>
+
+    <contents src="index.html" useplatformstyle="true" />
+    <rendering height="300px" width="30%"/>
+
+</widget>
