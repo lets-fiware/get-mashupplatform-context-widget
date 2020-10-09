@@ -2,7 +2,7 @@
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://www.fiware.org/developers/catalogue/)
 [![License: MIT](https://img.shields.io/github/license/lets-fiware/get-mashupplatform-context-widget.svg)](https://opensource.org/licenses/MIT)<br/>
-[![Build Status](https://travis-ci.org/lets-fiware/get-mashupplatform-context-widget.svg?branch=master)](https://travis-ci.org/lets-fiware/get-mashupplatform-context-widget)
+[![Build Status](https://travis-ci.com/lets-fiware/get-mashupplatform-context-widget.svg?branch=master)](https://travis-ci.com/lets-fiware/get-mashupplatform-context-widget)
 [![Coverage Status](https://coveralls.io/repos/github/lets-fiware/get-mashupplatform-context-widget/badge.svg?branch=master)](https://coveralls.io/github/lets-fiware/get-mashupplatform-context-widget?branch=master)
 
 The Get MashupPlatform context widget is a WireCloud widget that provides the MashupPlatform context information.
