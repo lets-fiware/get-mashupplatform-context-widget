@@ -2,7 +2,7 @@
  * get-mashupplatform-context-widget
  * https://github.com/lets-fiware/get-mashupplatform-context-widget
  *
- * Copyright (c) 2019 Kazuhito Suda
+ * Copyright (c) 2019-2023 Kazuhito Suda
  * Licensed under the MIT license.
  */
 
